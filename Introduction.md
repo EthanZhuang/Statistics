@@ -71,6 +71,24 @@ average: sometimes can be deeply misleading
 
 
 ## 20200923 敘述統計（I）-列表法與圖示法
+Ask you five questions before you start the course.
+* 何謂統計學 What is Statistics?
+* 統計科學? The Science of Statistics?
+* 統計學的用途? What types of Statistical Application can be used in Business?
+
+
+### 何謂統計學?
+任何一個領域的**問題或爭議**，皆能透過**收集與分析數據**來找出最適合解答，並加以**制定策略**
+
+日常應用的統計學:
+1. 民意調查: 收集選民回應並預測選舉結果
+2. 顧客意見: 消費者提供資訊，以便公司分析出消費者對產品的喜好
+3. 產品管理: 出貨前，針對產品抽樣檢查，以便控管出貨或保留的決策
+4. 其他: 天氣預報、物價指數、經濟指標、交通意外事故統計等...
+
+
+
+
 資料型態
 資料搜集方法
 衡量的尺度
