@@ -1,83 +1,23 @@
-###### tags: `Opencourseware`
-# Statistics 
 
-## First course: #1
-### Ask you a question, what can statistics do?
-
-* The truth of the statistics?
-* Is the thing that we want to discuss?
-    - EX: why people eat fast food?
-
-Descriptive & inference statistics:
-D: We d=fubd alot of data and make an stattistics 
-
-I(maybe so, maybe not): much more complex situation, only use small amount of events to test how likely it is. 
-
-- uncertainty
-
-## Second course: Mathematical Thinking 
-Visualize the big number the number is the key to know Statistics.
-
-Why we learn statistics?
-```Thinking mathematically isn't just about understanding numbers better. It's about asking important questions about the world around us. And letting numbers illustrate those questions```
-
-## Third Cource:
-
-middle number/ average number 
-measure a central of tendency: summary of a group as whole - expectation/ 
-
-normal distribution:
-
-
-distribution: frequency
-
-
-mean: it's about the number that is 
-
-median: take the mean of a two middle number 
-
-misleading?
-outlier: the things that is out of the median 
-
-mode: can be useful if you have a large number of samples. It's the peak of the the statistics 
-
-skewed: 
-
-
-## Fourth cource:
-measure of speed: 
-test scroe
-price bubble
-poster
-
-EX:
-youtube viewers, is the range, the large the audience is, the measure of speed will be more easily to spread out
-
-IOR: who is the primary group who watch you, a better idea of core idea. 
-
-variance - we can use scatter plot 
-
-variability - 
-
-
-infernecial statistics: 
-outlier: 
-
-standard deviation: the avg number that we use to deviate, and it'll be affected by extreme large and small numbers 
-
-average: sometimes can be deeply misleading
-
-
-## 統計課(Statistics)
-## 20200923 敘述統計（I）-列表法與圖示法
+# NCU 統計課(Statistics)
+## 20200923 敘述統計（I）Ch1
 ![](https://i.imgur.com/1aroXR5.png)
 ![](https://i.imgur.com/0pV9SAS.png)
+
+---
+Table of Content:
+* 資料型態(Types of Data)
+* 資料搜集方法(Collecting Data)
+* 衡量的尺度(Measurement Scales for Variables)
+* 次數分配表(Graphical Methodds for Describing Data)
+---
 
 Ask you five questions before you start the course.
 * 何謂統計學 What is Statistics?
 * 統計科學? The Science of Statistics?
 * 統計學的用途? What types of Statistical Application can be used in Business?
 
+---
 
 ### 1. 何謂統計學?
 任何一個領域的**問題或爭議**，皆能透過**收集與分析數據**來找出最適合解答，並加以**制定策略**
@@ -136,14 +76,15 @@ Ask you five questions before you start the course.
 ![](https://i.imgur.com/fEcbsbB.png)
 
 * 推論統計(Inferential Statistics):
-將部分資料，實際樣本參數(sample)地分析結果，用於更大範圍的資料-母體參數(parameter)的某些特性推論，做為策略研擬的依據。<br>
+將部分資料，實際樣本參數(sample)地分析結果，用於更大範圍的資料-
+參數(parameter)的某些特性推論，做為策略研擬的依據。<br>
 簡單來說，推論未知，由部分事件資料，推論事件的整體
 ![](https://i.imgur.com/KsDbY3g.png)
 
 ### 6. 母體(population)
 調查者欲調查的所有個體的集合，在機率論中稱為宇集(universal set)，其所包含的元素(element)為所欲研究對象的全部個體。
 
-母體的界定範圍又很重要，如果界定範圍發生錯誤，會導致抽樣調查有問題，後續的統計檢定、分析、推論都會產生錯誤。
+母體的界定範圍又很重要，如果界定範圍發生錯誤，會導致抽樣調查有問題，後續的統計檢定、分析、推論都會產生錯誤。<br>
 ![](https://i.imgur.com/rn89iKF.png)
 
 例: 廠商在推出新的咖啡前，想要了解消費者的是喝看法、喜好，則可將母體設定為「曾經喝過咖啡的社會大眾」。
@@ -155,7 +96,7 @@ Ask you five questions before you start the course.
 
 * 無限母體(infinite population):
 所包含的元素個數為「無限的」，或者是數量多到數不完<br>
-例: 空氣中懸浮例子個數、太空的行星數量等...
+例: 空氣中懸浮例子個數、太空的行星數量等...<br>
 ![](https://i.imgur.com/qStWa6Z.png)
 
 #### 參數/母數(parameter)
@@ -182,7 +123,7 @@ Ask you five questions before you start the course.
 
 ### 7. 統計學的用途
 1. 使資訊變得**有意義**<br>
-例: 繪製統計圖、統計圖表或計算統計量數
+例: 繪製統計圖、統計圖表或計算統計量數<br>
 ![](https://i.imgur.com/8D25MF5.png)
 
 2. 處理**不確定**的問題(方法: 機率理論、貝氏決策理論)<br>
@@ -194,20 +135,15 @@ Ask you five questions before you start the course.
 4. 預測
 ![](https://i.imgur.com/BZUUWen.png)
 
+---
+## 20200923 Statistics Chapter 2
 
-
-
-資料型態
-資料搜集方法
-衡量的尺度
-次數分配表
-
-
-
-
-
-
-
-
+---
+Table of Content:
+* 資料型態(Types of Data)
+* 資料搜集方法(Collecting Data)
+* 衡量的尺度(Measurement Scales for Variables)
+* 次數分配表(Graphical Methodds for Describing Data)
+---
 
 
